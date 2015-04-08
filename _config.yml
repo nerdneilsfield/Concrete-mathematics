@@ -1,13 +1,13 @@
 # Site settings
-title: Emerald | A simple Jekyll blog
-description: "A minimal blog template, build with Jekyll."
-url: "http://www.jacoporabolini.com/emerald"
+title: Concrete Mathematics
+description: "一个由Dengqi组织的对具体数学的开源翻译"
+url: "http://blog.dengqi.org/Concrete-mathematics"
 author:
-  name: "Jacopo Rabolini"
-  url: "http://www.jacoporabolini.com"
+  name: "Dengqi"
+  url: "http://blog.dengqi.org"
 
 # Build settings
-baseurl: /emerald/ # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
